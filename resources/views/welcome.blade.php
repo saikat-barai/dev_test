@@ -38,7 +38,7 @@
           {{ $posts->links() }}
         </div>
         <div  class="bg-[#3800AF] rounded-lg p-7 mt-7 text-center">
-          <h1  class="text-white text-xl font-semibold">GitHub link: &nbsp; <a href="" class="text-orange-400">skdjfhksjdf</a></h1>
+          <h1  class="text-white text-xl font-semibold">GitHub link: &nbsp; <a href="https://github.com/saikat-barai/dev_test" class="text-orange-400">Click Here</a></h1>
         </div>
       </div>
     </div>
